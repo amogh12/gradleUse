@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" hostname="L110069.local" name="demo.rpnn.RpnCalculatorShould" tests="1" time="0.067" timestamp="2013-04-14T03:24:17">
+  <properties />
+  <testcase classname="demo.rpnn.RpnCalculatorShould" name="addTwoNumbersCorreclty" time="0.0030" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
